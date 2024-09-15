@@ -1,0 +1,33 @@
+GET http://localhost:5000/games/
+
+
+###
+POST http://localhost:5000/Games
+Content-Type: application/json
+
+{
+  "name": "Horizon Zero Dawn",
+  "price": 49.99,
+  "releaseDate": "2017-02-28",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/8/8d/Horizon_Zero_Dawn.jpg",
+  "description": "Play as Aloy, a skilled hunter in a lush, post-apocalyptic world overrun by robotic creatures. Explore a vast open world, uncover mysteries of the past, and engage in tactical combat in this critically acclaimed action RPG.",
+  "videoId": "u4-FCsiF5x4",
+  "genreId": 3
+}
+
+
+###
+PUT http://localhost:5000/games/1
+Content-Type: application/json
+
+{
+  "name": "Horizon Zero Dawn",
+  "price": 49.99,
+  "releaseDate": "2017-02-28",
+  "image_url": "https://upload.wikimedia.org/wikipedia/en/8/8d/Horizon_Zero_Dawn.jpg",
+  "description": "Play as Aloy, a skilled hunter in a lush, post-apocalyptic world overrun by robotic creatures. Explore a vast open world, uncover mysteries of the past, and engage in tactical combat in this critically acclaimed action RPG.",
+  "videoId": "u4-FCsiF5x4",
+  "genreId": 3
+}
+###
+DELETE http://localhost:5000/games/20
