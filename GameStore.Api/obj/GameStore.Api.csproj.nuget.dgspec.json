@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jehad\\OneDrive\\Desktop\\Game_Store Backend\\GameStore.Api\\GameStore.Api.csproj": {}
+    "C:\\Users\\jehad\\OneDrive\\Desktop\\Game_Store Backend\\Game-Store-DotNet\\GameStore.Api\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jehad\\OneDrive\\Desktop\\Game_Store Backend\\GameStore.Api\\GameStore.Api.csproj": {
+    "C:\\Users\\jehad\\OneDrive\\Desktop\\Game_Store Backend\\Game-Store-DotNet\\GameStore.Api\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jehad\\OneDrive\\Desktop\\Game_Store Backend\\GameStore.Api\\GameStore.Api.csproj",
+        "projectUniqueName": "C:\\Users\\jehad\\OneDrive\\Desktop\\Game_Store Backend\\Game-Store-DotNet\\GameStore.Api\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "C:\\Users\\jehad\\OneDrive\\Desktop\\Game_Store Backend\\GameStore.Api\\GameStore.Api.csproj",
+        "projectPath": "C:\\Users\\jehad\\OneDrive\\Desktop\\Game_Store Backend\\Game-Store-DotNet\\GameStore.Api\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\jehad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jehad\\OneDrive\\Desktop\\Game_Store Backend\\GameStore.Api\\obj\\",
+        "outputPath": "C:\\Users\\jehad\\OneDrive\\Desktop\\Game_Store Backend\\Game-Store-DotNet\\GameStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U7GNWfl9Y1bpMeRvEgZLznkXeKyIGRunmybqgLJ7Le02jQmDsJG4y0L9dewOL/VBTUxvt/4Yg8ROsijRit/O5A==",
+  "dgSpecHash": "lrdtZTZZ4nFKu1OGqBBqhd0NBBbcSFYJaWiRdjXlGvvkNP6Xzwp4HiewsMwWPCW1BZy8u4MY2lJI0jciw2LNwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jehad\\OneDrive\\Desktop\\Game_Store Backend\\GameStore.Api\\GameStore.Api.csproj",
+  "projectFilePath": "C:\\Users\\jehad\\OneDrive\\Desktop\\Game_Store Backend\\Game-Store-DotNet\\GameStore.Api\\GameStore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jehad\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\jehad\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

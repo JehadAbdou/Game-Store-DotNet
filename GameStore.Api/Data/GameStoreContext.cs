@@ -9,6 +9,6 @@ namespace GameStore.Api.Data
         public DbSet<Game> Games => Set<Game>();
         public DbSet<Genre> Genres => Set<Genre>();
 
-        public DbSet<Cart> Cart => Set<Cart>();
+        
     }
 }
