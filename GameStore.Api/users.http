@@ -1,0 +1,23 @@
+GET http://localhost:5000/users/
+
+###
+GET http://localhost:5000/users/email/john@example.com
+
+###
+POST http://localhost:5000/users
+Content-Type: application/json
+
+{
+  "Username": "Admin",
+  "Email": "Admin",
+  "Password": "Admin"
+}
+
+###
+POST http://localhost:5000/users/api/login
+Content-Type: application/json
+
+{
+"Email": "Admin@Admin.com",
+"Password": "Admin"   
+}

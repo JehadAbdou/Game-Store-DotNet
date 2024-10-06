@@ -25,8 +25,8 @@ var app = builder.Build();
 app.UseCors("AllowFrontend");
 app.MapGamesEndpoint();
 app.MapGenresEndPoint();
-
-// await app.MigrateDBAsync();
+app.MapUserEndpoints();
+await app.MigrateDBAsync();
 
 app.Run();
 
